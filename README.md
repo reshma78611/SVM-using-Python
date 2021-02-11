@@ -15,7 +15,7 @@ In N dimension feature space,the dimension of decision boundary corresponds to N
 1)	Kernel Tricks:- 
               It utilizes existing features,applies some transformations and creates new features, this new features are key to find nonlinear decision boundary.Two most            popular kernels:-\
              a)	Polynomial Kernal\
-             b)	Radial Basis Function (RBF).\
+             b)	Radial Basis Function (RBF).
 2)	Soft Margin:-\
              It is used for both linearly and non linearly seperable data.Applying soft margin,SVM tolerates few dots to get misclassified and tries to balance the trade-off between finding a line that maximizes the margin and minimizes the misclassification. 
 
